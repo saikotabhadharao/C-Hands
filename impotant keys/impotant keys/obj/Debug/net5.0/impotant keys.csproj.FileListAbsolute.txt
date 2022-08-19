@@ -1,0 +1,16 @@
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.exe
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.deps.json
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.runtimeconfig.json
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.runtimeconfig.dev.json
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.dll
+C:\c# codes\impotant keys\impotant keys\bin\Debug\net5.0\impotant keys.pdb
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.csproj.AssemblyReference.cache
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.AssemblyInfoInputs.cache
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.AssemblyInfo.cs
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.csproj.CoreCompileInputs.cache
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.dll
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\refint\impotant keys.dll
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.pdb
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\impotant keys.genruntimeconfig.cache
+C:\c# codes\impotant keys\impotant keys\obj\Debug\net5.0\ref\impotant keys.dll

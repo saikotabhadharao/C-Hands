@@ -1,0 +1,16 @@
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.exe
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.deps.json
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.runtimeconfig.json
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.runtimeconfig.dev.json
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.dll
+C:\c# codes\index concept\index concept\bin\Debug\net5.0\index concept.pdb
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.csproj.AssemblyReference.cache
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.AssemblyInfoInputs.cache
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.AssemblyInfo.cs
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.csproj.CoreCompileInputs.cache
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.dll
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\refint\index concept.dll
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.pdb
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\index concept.genruntimeconfig.cache
+C:\c# codes\index concept\index concept\obj\Debug\net5.0\ref\index concept.dll

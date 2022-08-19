@@ -1,0 +1,16 @@
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.exe
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.deps.json
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.runtimeconfig.json
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.runtimeconfig.dev.json
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.dll
+C:\c# codes\extensions\extensions\bin\Debug\net5.0\extensions.pdb
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.csproj.AssemblyReference.cache
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.AssemblyInfoInputs.cache
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.AssemblyInfo.cs
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.csproj.CoreCompileInputs.cache
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.dll
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\refint\extensions.dll
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.pdb
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\extensions.genruntimeconfig.cache
+C:\c# codes\extensions\extensions\obj\Debug\net5.0\ref\extensions.dll

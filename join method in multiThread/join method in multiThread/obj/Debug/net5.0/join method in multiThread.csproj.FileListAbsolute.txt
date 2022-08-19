@@ -1,0 +1,16 @@
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.exe
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.deps.json
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.runtimeconfig.json
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.runtimeconfig.dev.json
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.dll
+C:\c# codes\join method in multiThread\join method in multiThread\bin\Debug\net5.0\join method in multiThread.pdb
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.csproj.AssemblyReference.cache
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.AssemblyInfoInputs.cache
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.AssemblyInfo.cs
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.csproj.CoreCompileInputs.cache
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.dll
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\refint\join method in multiThread.dll
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.pdb
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\join method in multiThread.genruntimeconfig.cache
+C:\c# codes\join method in multiThread\join method in multiThread\obj\Debug\net5.0\ref\join method in multiThread.dll

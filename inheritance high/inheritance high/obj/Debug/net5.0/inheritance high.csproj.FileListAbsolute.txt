@@ -1,0 +1,16 @@
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.exe
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.deps.json
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.runtimeconfig.json
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.runtimeconfig.dev.json
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.dll
+C:\c# codes\inheritance high\inheritance high\bin\Debug\net5.0\inheritance high.pdb
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.csproj.AssemblyReference.cache
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.AssemblyInfoInputs.cache
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.AssemblyInfo.cs
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.csproj.CoreCompileInputs.cache
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.dll
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\refint\inheritance high.dll
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.pdb
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\inheritance high.genruntimeconfig.cache
+C:\c# codes\inheritance high\inheritance high\obj\Debug\net5.0\ref\inheritance high.dll

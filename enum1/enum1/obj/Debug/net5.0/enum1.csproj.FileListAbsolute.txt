@@ -1,0 +1,16 @@
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.csproj.AssemblyReference.cache
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.AssemblyInfoInputs.cache
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.AssemblyInfo.cs
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.csproj.CoreCompileInputs.cache
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.exe
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.deps.json
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.runtimeconfig.json
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.runtimeconfig.dev.json
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.dll
+C:\c# codes\enum1\enum1\bin\Debug\net5.0\enum1.pdb
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.dll
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\refint\enum1.dll
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.pdb
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\enum1.genruntimeconfig.cache
+C:\c# codes\enum1\enum1\obj\Debug\net5.0\ref\enum1.dll

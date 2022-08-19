@@ -1,0 +1,16 @@
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.exe
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.deps.json
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.runtimeconfig.json
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.runtimeconfig.dev.json
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.dll
+C:\c# codes\new techniqes\new techniqes\bin\Debug\net5.0\new techniqes.pdb
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.csproj.AssemblyReference.cache
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.AssemblyInfoInputs.cache
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.AssemblyInfo.cs
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.csproj.CoreCompileInputs.cache
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.dll
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\refint\new techniqes.dll
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.pdb
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\new techniqes.genruntimeconfig.cache
+C:\c# codes\new techniqes\new techniqes\obj\Debug\net5.0\ref\new techniqes.dll

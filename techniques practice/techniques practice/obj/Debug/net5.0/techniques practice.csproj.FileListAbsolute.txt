@@ -1,0 +1,16 @@
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.exe
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.deps.json
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.runtimeconfig.json
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.runtimeconfig.dev.json
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.dll
+C:\c# codes\techniques practice\techniques practice\bin\Debug\net5.0\techniques practice.pdb
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.csproj.AssemblyReference.cache
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.AssemblyInfoInputs.cache
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.AssemblyInfo.cs
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.csproj.CoreCompileInputs.cache
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.dll
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\refint\techniques practice.dll
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.pdb
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\techniques practice.genruntimeconfig.cache
+C:\c# codes\techniques practice\techniques practice\obj\Debug\net5.0\ref\techniques practice.dll

@@ -1,0 +1,16 @@
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.exe
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.deps.json
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.runtimeconfig.json
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.runtimeconfig.dev.json
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.dll
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\bin\Debug\net5.0\multiThread with parameterized delegate.pdb
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.csproj.AssemblyReference.cache
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.AssemblyInfoInputs.cache
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.AssemblyInfo.cs
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.csproj.CoreCompileInputs.cache
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.dll
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\refint\multiThread with parameterized delegate.dll
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.pdb
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\multiThread with parameterized delegate.genruntimeconfig.cache
+C:\c# codes\multiThread with parameterized delegate\multiThread with parameterized delegate\obj\Debug\net5.0\ref\multiThread with parameterized delegate.dll

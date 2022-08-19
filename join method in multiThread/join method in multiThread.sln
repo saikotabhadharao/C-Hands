@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "join method in multiThread", "join method in multiThread\join method in multiThread.csproj", "{16EE73FF-5BD3-4E63-A9EA-61E4E86A5620}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16EE73FF-5BD3-4E63-A9EA-61E4E86A5620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16EE73FF-5BD3-4E63-A9EA-61E4E86A5620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16EE73FF-5BD3-4E63-A9EA-61E4E86A5620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16EE73FF-5BD3-4E63-A9EA-61E4E86A5620}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A58DD56-4CB8-44A9-97AE-B33917649033}
+	EndGlobalSection
+EndGlobal

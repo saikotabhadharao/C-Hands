@@ -1,0 +1,16 @@
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.exe
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.deps.json
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.runtimeconfig.json
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.runtimeconfig.dev.json
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.dll
+C:\c# codes\dicct\dicct\bin\Debug\net5.0\dicct.pdb
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.csproj.AssemblyReference.cache
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.AssemblyInfoInputs.cache
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.AssemblyInfo.cs
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.csproj.CoreCompileInputs.cache
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.dll
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\refint\dicct.dll
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.pdb
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\dicct.genruntimeconfig.cache
+C:\c# codes\dicct\dicct\obj\Debug\net5.0\ref\dicct.dll

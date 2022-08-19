@@ -1,0 +1,16 @@
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.exe
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.deps.json
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.runtimeconfig.json
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.runtimeconfig.dev.json
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.dll
+C:\c# codes\delegate types\delegate types\bin\Debug\net5.0\delegate types.pdb
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.csproj.AssemblyReference.cache
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.AssemblyInfoInputs.cache
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.AssemblyInfo.cs
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.csproj.CoreCompileInputs.cache
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.dll
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\refint\delegate types.dll
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.pdb
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\delegate types.genruntimeconfig.cache
+C:\c# codes\delegate types\delegate types\obj\Debug\net5.0\ref\delegate types.dll

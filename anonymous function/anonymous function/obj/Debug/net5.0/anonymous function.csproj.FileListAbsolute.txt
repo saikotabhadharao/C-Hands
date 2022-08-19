@@ -1,0 +1,16 @@
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.csproj.AssemblyReference.cache
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.AssemblyInfoInputs.cache
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.AssemblyInfo.cs
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.csproj.CoreCompileInputs.cache
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.exe
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.deps.json
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.runtimeconfig.json
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.runtimeconfig.dev.json
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.dll
+C:\c# codes\anonymous function\anonymous function\bin\Debug\net5.0\anonymous function.pdb
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.dll
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\refint\anonymous function.dll
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.pdb
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\anonymous function.genruntimeconfig.cache
+C:\c# codes\anonymous function\anonymous function\obj\Debug\net5.0\ref\anonymous function.dll

@@ -1,0 +1,16 @@
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.exe
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.deps.json
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.runtimeconfig.json
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.runtimeconfig.dev.json
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.dll
+C:\c# codes\priority in multiThread\priority in multiThread\bin\Debug\net5.0\priority in multiThread.pdb
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.csproj.AssemblyReference.cache
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.AssemblyInfoInputs.cache
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.AssemblyInfo.cs
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.csproj.CoreCompileInputs.cache
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.dll
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\refint\priority in multiThread.dll
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.pdb
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\priority in multiThread.genruntimeconfig.cache
+C:\c# codes\priority in multiThread\priority in multiThread\obj\Debug\net5.0\ref\priority in multiThread.dll

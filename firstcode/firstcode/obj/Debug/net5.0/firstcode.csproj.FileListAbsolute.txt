@@ -1,0 +1,16 @@
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.exe
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.deps.json
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.runtimeconfig.json
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.runtimeconfig.dev.json
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.dll
+C:\c# codes\firstcode\firstcode\bin\Debug\net5.0\firstcode.pdb
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.csproj.AssemblyReference.cache
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.AssemblyInfoInputs.cache
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.AssemblyInfo.cs
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.csproj.CoreCompileInputs.cache
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.dll
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\refint\firstcode.dll
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.pdb
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\firstcode.genruntimeconfig.cache
+C:\c# codes\firstcode\firstcode\obj\Debug\net5.0\ref\firstcode.dll

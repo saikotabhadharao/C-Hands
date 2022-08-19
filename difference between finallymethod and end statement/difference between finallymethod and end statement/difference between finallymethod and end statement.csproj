@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>difference_between_finallymethod_and_end_statement</RootNamespace>
+  </PropertyGroup>
+
+</Project>

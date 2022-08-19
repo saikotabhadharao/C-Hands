@@ -1,0 +1,16 @@
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.exe
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.deps.json
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.runtimeconfig.json
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.runtimeconfig.dev.json
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.dll
+C:\c# codes\lambda expressions\lambda expressions\bin\Debug\net5.0\lambda expressions.pdb
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.csproj.AssemblyReference.cache
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.AssemblyInfoInputs.cache
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.AssemblyInfo.cs
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.csproj.CoreCompileInputs.cache
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.dll
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\refint\lambda expressions.dll
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.pdb
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\lambda expressions.genruntimeconfig.cache
+C:\c# codes\lambda expressions\lambda expressions\obj\Debug\net5.0\ref\lambda expressions.dll

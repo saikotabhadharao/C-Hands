@@ -1,0 +1,16 @@
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.exe
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.deps.json
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.runtimeconfig.json
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.runtimeconfig.dev.json
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.dll
+C:\c# codes\interface 2\interface 2\bin\Debug\net5.0\interface 2.pdb
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.csproj.AssemblyReference.cache
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.AssemblyInfoInputs.cache
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.AssemblyInfo.cs
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.csproj.CoreCompileInputs.cache
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.dll
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\refint\interface 2.dll
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.pdb
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\interface 2.genruntimeconfig.cache
+C:\c# codes\interface 2\interface 2\obj\Debug\net5.0\ref\interface 2.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "priority in multiThread/1.0.0": {
+        "runtime": {
+          "priority in multiThread.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "priority in multiThread/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.exe
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.deps.json
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.runtimeconfig.json
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.runtimeconfig.dev.json
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.dll
+C:\c# codes\interface\interface\bin\Debug\net5.0\interfacenew.pdb
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.csproj.AssemblyReference.cache
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.AssemblyInfoInputs.cache
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.AssemblyInfo.cs
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.csproj.CoreCompileInputs.cache
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.dll
+C:\c# codes\interface\interface\obj\Debug\net5.0\refint\interfacenew.dll
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.pdb
+C:\c# codes\interface\interface\obj\Debug\net5.0\interfacenew.genruntimeconfig.cache
+C:\c# codes\interface\interface\obj\Debug\net5.0\ref\interfacenew.dll

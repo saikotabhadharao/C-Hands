@@ -1,0 +1,16 @@
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.exe
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.deps.json
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.runtimeconfig.json
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.runtimeconfig.dev.json
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.dll
+C:\c# codes\datetand time\datetand time\bin\Debug\net5.0\datetand time.pdb
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.csproj.AssemblyReference.cache
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.AssemblyInfoInputs.cache
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.AssemblyInfo.cs
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.csproj.CoreCompileInputs.cache
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.dll
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\refint\datetand time.dll
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.pdb
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\datetand time.genruntimeconfig.cache
+C:\c# codes\datetand time\datetand time\obj\Debug\net5.0\ref\datetand time.dll

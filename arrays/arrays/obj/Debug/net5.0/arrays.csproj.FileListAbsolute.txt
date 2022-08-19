@@ -1,0 +1,16 @@
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.exe
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.deps.json
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.runtimeconfig.json
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.runtimeconfig.dev.json
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.dll
+C:\c# codes\arrays\arrays\bin\Debug\net5.0\arrays.pdb
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.csproj.AssemblyReference.cache
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.AssemblyInfoInputs.cache
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.AssemblyInfo.cs
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.csproj.CoreCompileInputs.cache
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.dll
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\refint\arrays.dll
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.pdb
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\arrays.genruntimeconfig.cache
+C:\c# codes\arrays\arrays\obj\Debug\net5.0\ref\arrays.dll

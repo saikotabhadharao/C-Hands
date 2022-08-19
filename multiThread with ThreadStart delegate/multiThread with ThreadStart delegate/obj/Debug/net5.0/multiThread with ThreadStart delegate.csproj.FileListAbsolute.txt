@@ -1,0 +1,16 @@
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.exe
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.deps.json
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.runtimeconfig.json
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.runtimeconfig.dev.json
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.dll
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\bin\Debug\net5.0\multiThread with ThreadStart delegate.pdb
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.csproj.AssemblyReference.cache
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.AssemblyInfoInputs.cache
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.AssemblyInfo.cs
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.csproj.CoreCompileInputs.cache
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.dll
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\refint\multiThread with ThreadStart delegate.dll
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.pdb
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\multiThread with ThreadStart delegate.genruntimeconfig.cache
+C:\c# codes\multiThread with ThreadStart delegate\multiThread with ThreadStart delegate\obj\Debug\net5.0\ref\multiThread with ThreadStart delegate.dll

@@ -1,0 +1,16 @@
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.exe
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.deps.json
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.runtimeconfig.json
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.runtimeconfig.dev.json
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.dll
+C:\c# codes\Application Exception\Application Exception\bin\Debug\net5.0\Application Exception.pdb
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.csproj.AssemblyReference.cache
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.AssemblyInfoInputs.cache
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.AssemblyInfo.cs
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.csproj.CoreCompileInputs.cache
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.dll
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\refint\Application Exception.dll
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.pdb
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\Application Exception.genruntimeconfig.cache
+C:\c# codes\Application Exception\Application Exception\obj\Debug\net5.0\ref\Application Exception.dll

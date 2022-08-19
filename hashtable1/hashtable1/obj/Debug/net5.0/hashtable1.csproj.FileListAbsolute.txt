@@ -1,0 +1,16 @@
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.exe
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.deps.json
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.runtimeconfig.json
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.runtimeconfig.dev.json
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.dll
+C:\c# codes\hashtable1\hashtable1\bin\Debug\net5.0\hashtable1.pdb
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.csproj.AssemblyReference.cache
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.AssemblyInfoInputs.cache
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.AssemblyInfo.cs
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.csproj.CoreCompileInputs.cache
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.dll
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\refint\hashtable1.dll
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.pdb
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\hashtable1.genruntimeconfig.cache
+C:\c# codes\hashtable1\hashtable1\obj\Debug\net5.0\ref\hashtable1.dll

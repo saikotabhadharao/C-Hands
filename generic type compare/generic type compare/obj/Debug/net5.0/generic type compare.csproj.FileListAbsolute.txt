@@ -1,0 +1,16 @@
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.exe
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.deps.json
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.runtimeconfig.json
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.runtimeconfig.dev.json
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.dll
+C:\c# codes\generic type compare\generic type compare\bin\Debug\net5.0\generic type compare.pdb
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.csproj.AssemblyReference.cache
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.AssemblyInfoInputs.cache
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.AssemblyInfo.cs
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.csproj.CoreCompileInputs.cache
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.dll
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\refint\generic type compare.dll
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.pdb
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\generic type compare.genruntimeconfig.cache
+C:\c# codes\generic type compare\generic type compare\obj\Debug\net5.0\ref\generic type compare.dll

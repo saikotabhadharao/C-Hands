@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "difference between finallymethod and end statement/1.0.0": {
+        "runtime": {
+          "difference between finallymethod and end statement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "difference between finallymethod and end statement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

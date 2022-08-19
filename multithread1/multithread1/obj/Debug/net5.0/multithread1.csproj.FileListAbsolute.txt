@@ -1,0 +1,16 @@
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.exe
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.deps.json
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.runtimeconfig.json
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.runtimeconfig.dev.json
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.dll
+C:\c# codes\multithread1\multithread1\bin\Debug\net5.0\multithread1.pdb
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.csproj.AssemblyReference.cache
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.AssemblyInfoInputs.cache
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.AssemblyInfo.cs
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.csproj.CoreCompileInputs.cache
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.dll
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\refint\multithread1.dll
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.pdb
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\multithread1.genruntimeconfig.cache
+C:\c# codes\multithread1\multithread1\obj\Debug\net5.0\ref\multithread1.dll

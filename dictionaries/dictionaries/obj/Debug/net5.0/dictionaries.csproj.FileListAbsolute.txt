@@ -1,0 +1,16 @@
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.exe
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.deps.json
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.runtimeconfig.json
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.runtimeconfig.dev.json
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.dll
+C:\c# codes\dictionaries\dictionaries\bin\Debug\net5.0\dictionaries.pdb
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.csproj.AssemblyReference.cache
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.AssemblyInfoInputs.cache
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.AssemblyInfo.cs
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.csproj.CoreCompileInputs.cache
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.dll
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\refint\dictionaries.dll
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.pdb
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\dictionaries.genruntimeconfig.cache
+C:\c# codes\dictionaries\dictionaries\obj\Debug\net5.0\ref\dictionaries.dll

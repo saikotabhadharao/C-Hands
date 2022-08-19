@@ -1,0 +1,16 @@
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.exe
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.deps.json
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.runtimeconfig.json
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.runtimeconfig.dev.json
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.dll
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\bin\Debug\net5.0\complexStatemnts in list.pdb
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.csproj.AssemblyReference.cache
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.AssemblyInfoInputs.cache
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.AssemblyInfo.cs
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.csproj.CoreCompileInputs.cache
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.dll
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\refint\complexStatemnts in list.dll
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.pdb
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\complexStatemnts in list.genruntimeconfig.cache
+C:\c# codes\complexStatemnts in list\complexStatemnts in list\obj\Debug\net5.0\ref\complexStatemnts in list.dll

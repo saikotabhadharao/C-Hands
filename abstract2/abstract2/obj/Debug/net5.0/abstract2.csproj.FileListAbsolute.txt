@@ -1,0 +1,16 @@
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.exe
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.deps.json
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.runtimeconfig.json
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.runtimeconfig.dev.json
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.dll
+C:\c# codes\abstract2\abstract2\bin\Debug\net5.0\abstract2.pdb
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.csproj.AssemblyReference.cache
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.AssemblyInfoInputs.cache
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.AssemblyInfo.cs
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.csproj.CoreCompileInputs.cache
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.dll
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\refint\abstract2.dll
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.pdb
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\abstract2.genruntimeconfig.cache
+C:\c# codes\abstract2\abstract2\obj\Debug\net5.0\ref\abstract2.dll
